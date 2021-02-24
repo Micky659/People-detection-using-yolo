@@ -1,0 +1,1 @@
+Put your downloaded cfg file in this folder
